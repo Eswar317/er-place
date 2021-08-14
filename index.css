@@ -79,7 +79,7 @@ body {
 	background-color: rgb(170, 124, 80);
 	color: white;
 	cursor: pointer;
-	padding: 15px;
+	padding: 10px;
 	border-radius: 4px;
   } 
   #myBtn:hover {
@@ -116,7 +116,7 @@ footer ul li {
 }
   @media screen and (max-width: 700px) {
     #mybtn  {
-		padding: 100px;
+		padding: 5px;
 		bottom: 30%;
 		right: 20%;
 	  }  
