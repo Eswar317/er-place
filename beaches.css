@@ -136,17 +136,17 @@ footer ul li {
       }
 }
   @media screen and (max-width: 700px) {
-    .center1, .center2, .center3 {
+      #mybtn  {
+		padding: 5px;
+		bottom: 35px;
+		right: 30px;
+	  }  
+      .center1, .center2, .center3 {
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 90%;
       }
-    #mybtn  {
-		padding: 5px;
-		bottom: 35px;
-		right: 30px;
-	  }  
 	  label #btn {
 		  display: block;
 	  }
