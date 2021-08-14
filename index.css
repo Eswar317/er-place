@@ -67,11 +67,11 @@ body {
 	right: 0%;
 	top: 0%;
   }
-  #myBtn {
+ #myBtn {
 	display: none;
 	position: fixed;
-	bottom: 20px;
-	right: 30px;
+	bottom: 40px;
+	right:20px;
 	z-index: 99;
 	font-size: 18px;
 	border: none;
@@ -115,9 +115,9 @@ footer ul li {
 	}
 }
   @media screen and (max-width: 700px) {
-    #mybtn  {
+           #mybtn  {
 		padding: 5px;
-		bottom: 35px;
+		bottom: 40px;
 		right: 30px;
 	  }  
 	  label #btn {
