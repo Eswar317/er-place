@@ -116,7 +116,7 @@ footer ul li {
 }
   @media screen and (max-width: 700px) {
     #mybtn  {
-		padding: 200px;
+		padding: 100px;
 		bottom: 30%;
 		right: 20%;
 	  }  
